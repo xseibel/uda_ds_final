@@ -10,7 +10,7 @@ The project is divided into three seperate notebooks/apps/scripts:
 3. Data visualization of real and predicted data of pretrained models via a web app based on Plotly Dash framework (`app.py`)
 
 ## Screenshot of the web app
-![initial](img/img1.png)
+![initial](img/img1.jpg)
 
 ## Requirements
 I suggest you to create a separate virtual environment running Python 3 for this project, and install all of the required dependencies there. Run in Terminal/Command Prompt:
