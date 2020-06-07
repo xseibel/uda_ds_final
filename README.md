@@ -7,7 +7,7 @@ As a predictor model, a ARIMA timeseries forecast model was choosen.
 The project is divided into three seperate notebooks/apps/scripts:
 1. Stock data analysis and model evaluation, located in the `arima_model_selection.ipynb` jupyter notebook.
 2. Model creation (obtaining data and model training) and data serialization, located in the `make_model.ipynb` jupyter notebook.
-3. Data Visualition of pretrained models via a web app based on Plotly Dash framework (`app.py`)
+3. Data visualization of real and predicted data of pretrained models via a web app based on Plotly Dash framework (`app.py`)
 
 ## Screenshot of the web app
 ![initial](img/img1.png)
@@ -46,7 +46,7 @@ Run this app locally by:
 ```
 python app.py
 ```
-Open http://0.0.0.0:8050/ in your browser, you will a chart with pretrained stock symbols.
+Open http://0.0.0.0:8050/ in your browser, you will see a interactive chart of stock data and a selection of stock symbols.
 
 ## How to use the jupyter notebooks
 
